@@ -1,0 +1,11 @@
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\bin\Debug\netcoreapp2.2\FractalVisualizer.deps.json
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\bin\Debug\netcoreapp2.2\FractalVisualizer.runtimeconfig.json
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\bin\Debug\netcoreapp2.2\FractalVisualizer.runtimeconfig.dev.json
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\bin\Debug\netcoreapp2.2\FractalVisualizer.dll
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\bin\Debug\netcoreapp2.2\FractalVisualizer.pdb
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\obj\Debug\netcoreapp2.2\FractalVisualizer.csprojAssemblyReference.cache
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\obj\Debug\netcoreapp2.2\FractalVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\obj\Debug\netcoreapp2.2\FractalVisualizer.AssemblyInfoInputs.cache
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\obj\Debug\netcoreapp2.2\FractalVisualizer.AssemblyInfo.cs
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\obj\Debug\netcoreapp2.2\FractalVisualizer.dll
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\obj\Debug\netcoreapp2.2\FractalVisualizer.pdb

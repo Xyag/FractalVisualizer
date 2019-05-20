@@ -1,0 +1,11 @@
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\bin\Debug\netcoreapp2.2\ComplexVisualizer.deps.json
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\bin\Debug\netcoreapp2.2\ComplexVisualizer.runtimeconfig.json
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\bin\Debug\netcoreapp2.2\ComplexVisualizer.runtimeconfig.dev.json
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\bin\Debug\netcoreapp2.2\ComplexVisualizer.dll
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\bin\Debug\netcoreapp2.2\ComplexVisualizer.pdb
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\obj\Debug\netcoreapp2.2\ComplexVisualizer.csprojAssemblyReference.cache
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\obj\Debug\netcoreapp2.2\ComplexVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\obj\Debug\netcoreapp2.2\ComplexVisualizer.AssemblyInfoInputs.cache
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\obj\Debug\netcoreapp2.2\ComplexVisualizer.AssemblyInfo.cs
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\obj\Debug\netcoreapp2.2\ComplexVisualizer.dll
+C:\Users\Jimmy\Documents\Programming\ComplexVisualizer\obj\Debug\netcoreapp2.2\ComplexVisualizer.pdb
